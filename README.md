@@ -1,34 +1,52 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<style>
-body { text-align: center; } </style>
-
-<p align=center>Click the button to get your coordinates.</p>
-
 <p align=center>
+  
+This TOOL use for get longitude and latitude  .
 
-<button onclick="getLocation()"><img src = "https://img.shields.io/badge/Coordinates-longitude%20and%20%20latitude%20-orange"</img></button>
+## using 
+1 . Clone this Git 
+<br>
+2 . open in browser .
+<br>
+3 . click latitude and longitude button to view coordinates.
+<br>
+4 . copy that coordinates.
+<br>
+5 . paste in google maps .
+<br>
+6 . that will show you that coordinates in map.
 
-<p id="demo"></p>
+<br>
+<br>
+##
 
-<script align=center>
-var x = document.getElementById("demo");
+## improve 
 
-function getLocation() {
-  if (navigator.geolocation) {
-    navigator.geolocation.getCurrentPosition(showPosition);
-  } else { 
-    x.innerHTML = "Geolocation is not supported by this browser.";
-  }
-}
+  <h1> Do you want improve this code  or your suggestion please leave it in  discussion .</h1>
+   <br>
+   <br>
+  <h1> Contribute now.</h1>
+  
+ ##
+ 
+ <h2> Share Now </h2>
+ 
+ <a target="_blank" href="https://twitter.com/intent/tweet?&url=https://github.com/nethra-coding/lord-shiva.git&hashtags= module ,%20python" title="share on twitter"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
+ 
+<a target="_blank" href="https://www.facebook.com/plugins/share_button.phphref=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&layout=button_count&size=small&width=96&height=20&appId" title="share on FaceBook"><img src="https://img.shields.io/badge/FaceBook-ShareNow-yellow"></a>
 
-function showPosition(position) {
-  x.innerHTML = "Latitude: " + position.coords.latitude + 
-  "<br>Longitude: " + position.coords.longitude;
-}
-</script>
+##
 
-</body>
-</html>
+##  Thank You 
+
+
+##
+
+  ## Lord Shiva
+
+##
+
+
+
+
+
+
